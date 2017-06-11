@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/baseastar.png</file>
+        <file>Resources/commap.png</file>
+        <file>Resources/confile.png</file>
+        <file>Resources/display.png</file>
+        <file>Resources/guidastar.png</file>
+        <file>Resources/guidpoint.png</file>
+        <file>Resources/orgtomap.png</file>
+        <file>Resources/system.png</file>
+        <file>Resources/openmap.png</file>
+        <file>Resources/quit.png</file>
+        <file>Resources/closepoj.png</file>
+    </qresource>
+</RCC>
